@@ -4,7 +4,7 @@ El joc permet simular el moviment d'una nau en l'eix X i en les Y.
 
 ## Menú del joc
 
-![imagen](<img width="107" height="68" alt="Captura de pantalla 2025-10-08 084528" src="https://github.com/user-attachments/assets/4b08f0b0-936d-4804-9a2e-f86f192a5880" />)
+<img width="107" height="68" alt="aa" src="https://github.com/user-attachments/assets/17e7a07a-934c-4de8-90e0-cb01767db663" />
 
 ## Requeriments
 
