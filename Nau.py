@@ -26,11 +26,11 @@ def main():
         elif op=='w':
             pass
             #sumar 1 a la variable posY
-            posX=posX+1
+            posY=posY+1
         elif op=='s':
             pass
             #restar 1 a la variable posY
-             posX=posX-1
+             posY=posY-1
         elif op=='0':
             sortir=True
             print("Has sortit de la nau")
